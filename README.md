@@ -1,36 +1,37 @@
-# Hi, I'm Arantzazu
+# Hi, I'm Arantzazu Arregui
 
-Graduate student in Master of Management in Analytics at McGill University,
-building hands-on experience in machine learning, data pipelines, 
-and BI development through coursework and real-world projects.
+Master of Management in Analytics student at McGill University with hands-on experience in machine learning, optimization, data pipelines, and BI development through applied academic and project-based work. My background in engineering and analytics helps me turn complex datasets into structured insights, predictive models, and decision-support tools.
 
-## Stack
-**Languages:** Python · SQL · SAS · DAX  
-**BI & Cloud:** Power BI · BigQuery (GCP) · Tabular Editor  
-**ML & Analytics:** scikit-learn · Gurobi · SHAP · NLTK  
-**Tools:** Jupyter · Git · pandas · numpy  
+## Core Skills
+**Languages:** Python · SQL · DAX · SAS  
+**BI & Data Tools:** Power BI · BigQuery (GCP) · Tabular Editor  
+**Analytics & Modeling:** scikit-learn · Gurobi · SHAP · NLTK  
+**Libraries & Workflow:** pandas · numpy · Jupyter · Git  
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### [Kickstarter Success Prediction](https://github.com/arantzazu-arregui/kickstarter-project)
-Classification + clustering on 200k+ campaigns. Used a temporal train/test split and 
-explicit leakage prevention to simulate real-world launch conditions. Tuned Random Forest 
-achieved ROC-AUC of 0.81; SHAP identified funding goal as the dominant predictor.
+Built a predictive modeling workflow on 200k+ Kickstarter campaigns to estimate launch success under realistic forecasting conditions. Used a temporal train/test split and explicit leakage prevention to better reflect real-world deployment. A tuned Random Forest achieved **ROC-AUC of 0.81**, and SHAP analysis identified **funding goal** as the strongest predictor.  
+**Skills demonstrated:** predictive modeling, feature engineering, model evaluation, business-focused interpretation
 
 ### [Emergency Callbox Optimization](https://github.com/arantzazu-arregui/emergency-callbox-optimization)
-Mixed-integer programming (Gurobi) to optimize emergency phone placement on McGill's 
-downtown campus. Extracted spatial data from a campus PDF map; model achieved 65.1% 
-weighted coverage at $234,500 installation cost.
+Developed a mixed-integer optimization model in Gurobi to recommend emergency phone placement across McGill’s downtown campus. Extracted and structured spatial data from a campus PDF map, then optimized location choices to maximize safety coverage under budget constraints. The final model achieved **65.1% weighted coverage** at an estimated **$234,500 installation cost**.  
+**Skills demonstrated:** optimization, geospatial data structuring, cost-coverage tradeoff analysis, decision support
 
 ### [Yelp NLP Pipeline](https://github.com/arantzazu-arregui/nlp-yelp-project)
-End-to-end NLP pipeline on 100k Yelp reviews: LDA topic modeling, TF-IDF text 
-classification (95.5% binary accuracy), and aspect-level statistical analysis. 
-Fully modular Python codebase with Makefile-driven execution.
+Created an end-to-end NLP pipeline on 100k Yelp reviews to analyze customer feedback at scale. Combined topic modeling, TF-IDF text classification, and aspect-level analysis to identify patterns in review content and sentiment. Built the workflow as a modular Python project with Makefile-driven execution for reproducibility and maintainability.  
+**Skills demonstrated:** text analytics, classification, reproducible pipelines, insight extraction from unstructured data
 
 ### [Scin Data Modeling](https://github.com/wildg/Scin-Data-Modeling) *(contributor)*
-Group project (INSY 674). I owned three core workstreams: **Feature Engineering** (#13), 
-**Semi-Supervised Learning Models** (#10), and **LightGBM Model** (#31) — 
-all tracked and completed via the project board.
+Contributed to a team-based predictive modeling project by leading three core workstreams: **Feature Engineering**, **Semi-Supervised Learning Models**, and **LightGBM Model Development**. My contributions were tracked through the project board and focused on improving model performance and strengthening the overall workflow.  
+**Skills demonstrated:** collaboration, model development, feature engineering, project ownership
 
-## 📫 Let's connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-arantzazu--arreguigz-blue?logo=linkedin)](https://linkedin.com/in/arantzazu-arreguigz)
+## Currently Building
+I am continuing to expand my portfolio with projects in:
+- dashboarding and KPI tracking
+- SQL-based analytics workflows
+- business performance analysis
+- decision-support tools for real-world problems
+
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/arantzazu-arreguigz)
