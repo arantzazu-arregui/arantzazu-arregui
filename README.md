@@ -34,6 +34,3 @@ Developed a mixed-integer optimization model in Gurobi to recommend emergency ph
 ### [Scin Data Modeling](https://github.com/wildg/Scin-Data-Modeling) *(contributor)*
 Contributed to a team-based predictive modeling project by leading three core workstreams: **Feature Engineering**, **Semi-Supervised Learning Models**, and **LightGBM Model Development**. My contributions were tracked through the project board and focused on improving model performance and strengthening the overall workflow.  
 **Skills demonstrated:** collaboration, model development, feature engineering, project ownership
-
-## Let's Connect
-[LinkedIn](https://linkedin.com/in/arantzazu-arreguigz) · aarregui97@gmail.com
