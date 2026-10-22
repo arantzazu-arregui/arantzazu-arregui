@@ -16,7 +16,7 @@ Built Gaussian process emulators in GPyTorch as surrogates for the UVic climate 
 ## Featured Projects
 
 ### [Shipping Emissions Allocation](https://github.com/arantzazu-arregui/emissions-allocation)
-Open-data reconstruction of Selin et al. (2021) on the national allocation of shipping CO2. A tested Python, DuckDB, and spatial SQL pipeline converts 140,000+ hourly ship records (2017 to 2024) into voyage-level emissions allocated by country. Found that one missing register field, installed engine power, drives most of the uncertainty (a **1.92x** difference in total emissions for the container ship).  
+Open-data reconstruction of Selin et al. (2021) on the national allocation of shipping CO2. A tested Python, DuckDB, and spatial SQL pipeline converts 140,000+ hourly ship records (2017 to 2024) into voyage-level emissions allocated by country. Found that one missing register field, installed engine power, drives most of the uncertainty (a **1.90x** difference in total emissions for the container ship).  
 **Skills demonstrated:** data pipelines, spatial SQL, uncertainty analysis, testing and reproducibility
 
 ### [Kickstarter Success Prediction](https://github.com/arantzazu-arregui/kickstarter-project)
